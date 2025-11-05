@@ -108,15 +108,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-o
           
 ### 📊 Estatística
 
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="100" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CHFontenele&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
