@@ -131,5 +131,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-o
 Criar soluções eficientes e inovadoras, conectando o mundo da programação ao da engenharia.
 
 📫 Entre em contato:
-(11)9533-25475 ou [LinkedIn](www.linkedin.com/in/carlos-henrique-aa1560217).
-          
+(11)9533-25475 ou 🔗 [Meu LinkedIn](https://www.linkedin.com/in/carlos-henrique-aa1560217)
+
