@@ -7,7 +7,8 @@
 **💻 Engenharia da Computação — 22 anos**
 
 🚀 Apaixonado por tecnologia, desenvolvimento e desafios que unem hardware e software.<br>
-📚 Atualmente explorando e aprimorando minhas habilidades em diversas linguagens e áreas da computação.<br>
+
+📚 Atualmente, estou explorando e aprimorando minhas habilidades em diversas linguagens e áreas da computação. Tenho um forte domínio em Java, linguagem com a qual me sinto totalmente ambientado e confortável para desenvolver soluções criativas, eficientes e bem estruturadas. Busco constantemente evoluir, aprender novas tecnologias e transformar ideias em projetos que unem lógica, desempenho e inovação.<br>
 
 ---
 
