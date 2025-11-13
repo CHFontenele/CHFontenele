@@ -1,4 +1,7 @@
 ![mario](https://github.com/AkiraSunsets/AkiraSunsets/blob/main/mario.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=33&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+CARLOS+HENRIQUE;EU+ESTUDO+ENGENHARIA+DA+COMPUTAÇÃO+;VAMOS+CODAR!+:%29)](https://git.io/typing-svg)
+
 # Olá, eu sou o Carlos Henrique! 👨‍💻👋
 
 **💻 Engenharia da Computação — 22 anos**
