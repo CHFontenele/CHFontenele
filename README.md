@@ -1,3 +1,4 @@
+![mario](https://github.com/AkiraSunsets/AkiraSunsets/blob/main/mario.gif)
 # Olá, eu sou o Carlos Henrique! 👨‍💻👋
 
 **💻 Engenharia da Computação — 22 anos**
