@@ -134,3 +134,7 @@ Criar soluções eficientes e inovadoras, conectando o mundo da programação ao
 📫 Entre em contato:
 (11)9533-25475 ou 🔗 [Meu LinkedIn](https://www.linkedin.com/in/carlos-henrique-aa1560217)
 
+
+
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4zcmt2YmgzeXd2eHUyYTZzMmd3ODE1cWtocXNmY2J3NzZyZGN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj4GdLC0amFRv10VT/giphy.gif" height=400 width=600/>
