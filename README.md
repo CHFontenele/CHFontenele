@@ -112,6 +112,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-o
           
 ### 📊 Estatística
 
+
+<img>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=CHFontenele&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHFontenele&bg_color=black&color=4b69fd&line=4b69fd&point=4b69fd&area=true&hide_border=true" />
+</img>
+
+
+
+
  <img 
     align="left" 
     alt="GitHub Stats" 
